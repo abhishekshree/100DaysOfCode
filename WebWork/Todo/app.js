@@ -121,7 +121,7 @@ function getTodos(){
     // Loop for every element in todos and redo the add todos function
     todos.forEach(function(todo){
     
-        //TodoDiv
+    //TodoDiv
     const todoDiv = document.createElement("div");
     todoDiv.classList.add("todo");
     
@@ -138,7 +138,7 @@ function getTodos(){
     todoDiv.appendChild(completedButton);
 
     
-    //Dlete mark
+    //Delete mark
     const trashButton = document.createElement("Button");
     trashButton.innerHTML = '<i class = "fas fa-trash"></i>';
     trashButton.classList.add("trash-btn");

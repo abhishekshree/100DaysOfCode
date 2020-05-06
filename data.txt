@@ -1,345 +1,408 @@
-
-1. 12 Physics Electrostatics Analysis Of Energy  May 2, 2020
-2. 12 Biology Female Reproductive System Part 03  May 2, 2020
-3. 12 BST Topic Nature And Significance Of Coordination  May 2, 2020
-4. 12 Chemistry Crystal Lattice  May 2, 2020
-5. 12 Economics Privatization  May 2, 2020
-6. 12 English Poetry Writing Competition  May 2, 2020
-7. 12 English Keeping Quiet Part 02  May 2, 2020
-8. 12 History Problem In Piecing Together In Past  May 2, 2020
-9. 12 Maths  Lesson 04 Determinants Part 03  May 2, 2020
-10. 12 Maths  Lesson 04 Determinants Part 04  May 2, 2020
-11. 12 PHE Topic Consolation Tournament And Seeding Method  May 2, 2020
-12. 12 Chemistry Solid Part 02  May 1, 2020
-13. 09 Economics CH 01 Video 06 Assignment Questions Solution  May 1, 2020
-14. 09 Geography CH 01 Part 01  May 1, 2020
-15. 09 Geography CH 01 Part 02  May 1, 2020
-16. 09 Hindi Everest Meri Shikhar Yatra  May 1, 2020
-17. 09 History The French Revolution Reign Of Terror Part 01  May 1, 2020
-18. 09 History The French Revolution Reign Of Terror Part 02  May 1, 2020
-19. 09 Pol Sc CH 02 Topic Fourth Feature Of Democracy Video 04  May 1, 2020
-20. 10 Geography CH 01 Part 01  May 1, 2020
-21. 10 Geography CH 01 Part 02  May 1, 2020
-22. 10 Hindi CH 02 Meera Ke Pad Video 01  May 1, 2020
-23. 10 Maths Division Algorithm for Polynomial  May 1, 2020
-24. 10 Physics Numericals Of Electricity  May 1, 2020
-25. 12 English Keeping Quiet  May 1, 2020
-26. 12 IP Simple Query Part 04  May 1, 2020
-27. 12 Physics Potential Energy of System Of Charges Lecture 05 2  May 1, 2020
-28. 12 ACCOUNTANCY  TOPIC VALUATION OF GOODWILL  May 1, 2020
-29. 12 Arts Pol Sc Book 02 CH 01 Nation building Part 03  May 1, 2020
-30. 12 Biology Human Reproduction Part 02  May 1, 2020
-31. 12 Economics Topic Economic Reforms Since 1991  May 1, 2020
-32. 12 Maths Determinants 01  May 1, 2020
-33. 12 Maths Determinants 02  May 1, 2020
-34. 09 Biology CH Improvement In  Food Resources Topic Fish Production  April 30, 2020
-35. 09 Chemistry Lesson V 03  April 30, 2020
-36. 09 English The Wind Video 01  April 30, 2020
-37. 09 English The Wind Video 02  April 30, 2020
-38. 09 Physics Motion Video 6  April 30, 2020
-39. 10 CA HTML Font HR Comment Tags  April 30, 2020
-40. 10 Chemistry Lesson 02 V 02  April 30, 2020
-41. 10 CIVICS Chapter 02 Federalism  April 30, 2020
-42. 10 English Tiger In The Zoo Part 01  April 30, 2020
-43. 10 English Tiger In The Zoo Part 02  April 30, 2020
-44. 10 History Part 01  April 30, 2020
-45. 10 History Part 02  April 30, 2020
-46. 10 Maths Polynomials Video 04  April 30, 2020
-47. 12 Physics Equipotential Surface 02 Lecture 04 1  April 30, 2020
-48. 12 B STUDIES TOPIC COORDINATION  April 30, 2020
-49. 12 Biology Human Reproduction Part 01  April 30, 2020
-50. 12 Chemistry Abnormal Molar Masses Vant Hoff�s Factor Lecture 04  April 30, 2020
-51. 12 English Deep Water Part 02  April 30, 2020
-52. 12 History Announcing The Discovery Of IVC  April 30, 2020
-53. 12 Maths Function Problem Solutions 01  April 30, 2020
-54. 12 Maths Function Problem Solutions 02  April 30, 2020
-55. 09 Maths Number System Video 05  April 29, 2020
-56. 09 CA Types Of Hardware Memory Unit  April 29, 2020
-57. 10 Maths Word Problems Real Number  April 29, 2020
-58. 10 Hindi Diary Ka Ek Panna video 02  April 29, 2020
-59. 10 Economics CH 01 Topic Public Facilities Video 05  April 29, 2020
-60. 10 Biology Nutrition In Human Beings Part 02 Associated Glands 01  April 29, 2020
-61. 12 Accountancy Topic Past Adjustments Entry  April 29, 2020
-62. 12 English Deep Water Part 01  April 29, 2020
-63. 12 English Deep Water Part 02  April 29, 2020
-64. 12 Arts Pol Sc CH 01 Partition  April 29, 2020
-65. 12 Physics Topic Equipotential Surface Part 01  April 29, 2020
-66. 12 Economics CH 03 Topic Economic Reform Since 1991  April 29, 2020
-67. 12 Biology Development Of Monocot Embryo  April 29, 2020
-68. 12 Chemistry Colligative Properties Osmotic Pressure Lecture 3  April 29, 2020
-69. 12 Maths Functions Composition Part 01  April 29, 2020
-70. 12 Maths Functions Composition Part 02  April 29, 2020
-71. 12 Maths Functions Composition Part 03  April 29, 2020
-72. 12 Maths Functions Composition Part 04  April 29, 2020
-73. 09 Civics Democracy  April 28, 2020
-74. 09 Economics Non Farming Activities  April 28, 2020
-75. 09 Geography India Size Location Part 01  April 28, 2020
-76. 09 Geography India Size Location Part 02  April 28, 2020
-77. 09 Hindi CH 02 Everest Meri Shikhar Yatra  April 28, 2020
-78. 09 History French Revolution Part 01  April 28, 2020
-79. 09 History French Revolution Part 02  April 28, 2020
-80. 10 Chemistry Compounds Acids Bases Salts  April 28, 2020
-81. 10 English Fire And Frost  April 28, 2020
-82. 10 Geography Resource And Development Part 01  April 28, 2020
-83. 10 Geography Resource And Development Part 02  April 28, 2020
-84. 10 Maths Real Numbers Theorem  April 28, 2020
-85. 12 Biology Development Of Embryo  April 28, 2020
-86. 12 IP Simple Query Part 03  April 28, 2020
-87. 12 History Harappan Civilization  April 28, 2020
-88. 12 Maths Continuity And Differentiability Part 10  April 28, 2020
-89. 12 BST Topic Functions Of Management  April 28, 2020
-90. 12 English Commercial Advertisement Assignment  April 28, 2020
-91. 12 Chemistry Azeotropic mixture Part 02  April 28, 2020
-92. 12 Physics Electric Potential Part 02  April 28, 2020
-93. 10 Biology Life Processes Nutrition In Human Beings  April 27, 2020
-94. 09 Biology Improvement In Food Resources Animal Husbandry  April 27, 2020
-95. 09 CA CH 02 Types Of Hardware  April 27, 2020
-96. 09 Chemistry Is Matter Around Us Pure  April 27, 2020
-97. 09 English Beehive Poem Wind Part 01  April 27, 2020
-98. 09 English Beehive Poem Wind Part 02  April 27, 2020
-99. 09 Maths Number System Completeness Density Property  April 27, 2020
-100. 09 Physics Motion Velocity Time Graph  April 27, 2020
-101. 10 CA HTML Body Attributes  April 27, 2020
-102. 10 Civics Chapter 01 Power Sharing Last Part  April 27, 2020
-103. 10 Economics Development Income And other Criteria  April 27, 2020
-104. 10 English Dust Of Snow  April 27, 2020
-105. 10 Hindi Diary Ka Ek Panna Sparsh  April 27, 2020
-106. 10 History NII Rebellion Country Side Part 01  April 27, 2020
-107. 10 History NII Rebellion Country Side Part 02  April 27, 2020
-108. 10 Maths Polynomials  April 27, 2020
-109. 10 Maths Real Numbers  April 27, 2020
-110. 10 Physics Electricity Ohms Law Resistance  April 27, 2020
-111. 12 Chemistry Ideal Non Ideal Solutions And Azeotropic Part 01  April 27, 2020
-112. 12 Biology Growth Of Pollen Tube And Double Fertilization  April 27, 2020
-113. 12 Accounts Topic Past Adjustment Guarantee Of Profits  April 27, 2020
-114. 12 Arts Political Science CH 01 Nation Building  April 27, 2020
-115. 12 Economics Economic Planning 1950 90 Topic Subsidy  April 27, 2020
-116. 12 English Writing Section Advertisement Writing  April 27, 2020
-117. 12 Maths Continuity and Differentiability Part 08  April 27, 2020
-118. 12 Maths Continuity and Differentiability Part 09  April 27, 2020
-119. 12 Physics Electric Potential  April 27, 2020
-120. 12 Physics Applications Of Gauss�s  Theorem Charged  Wire Part 01  April 25, 2020
-121. 12 Physics Applications Of Gauss�s Theorem Thin Sheet Part 02  April 25, 2020
-122. 12 Physics Applications Of Gauss�s Theorem Thin Sheet Thin Spherical Shell Part 03  April 25, 2020
-123. 12 Chemistry Elevation Of Boiling Point  April 25, 2020
-124. 12 Biology Gynoecium  April 25, 2020
-125. 12 BST Topic Level Of Management  April 25, 2020
-126. 12 Economics Economic Planning 1950-90 Part 01  April 25, 2020
-127. 12 Economics Economic Planning 1950-90 Part 02  April 25, 2020
-128. 12 History End Of Harappan Civilization  April 25, 2020
-129. 12 Matrices Lesson 03 Part 01  April 25, 2020
-130. 12 Matrices Lesson 03 Part 02  April 25, 2020
-131. 12 PHE Method Of Preparing Fixtures In Knock Out Tournament 01  April 25, 2020
-132. 12 PHE Topic League Or Round Robin Tournament 02  April 25, 2020
-133. 12 English Poem An Elementary School Classroom in a Slum The Third Stanza  April 25, 2020
-134. 09 Hindi raidas ke pad video 2  2 comments
-135. 09 Economics Capital  April 24, 2020
-136. 09 Geography India Size Location 01  April 24, 2020
-137. 09 Geography Merits Of India�s Central Location 02  April 24, 2020
-138. 09 Hist The French Revolution 01  April 24, 2020
-139. 09 Hist The French Revolution 02  April 24, 2020
-140. 09 Pol Sc CH 02 Democracy  April 24, 2020
-141.  April 24, 2020
-142. 10 02 Geography Conservation of Resources  April 24, 2020
-143. 10 Hindi Bade Bhai Sahab Video 2  April 23, 2020
-144. 10 CA HTML Basic Tags  April 23, 2020
-145. 10 Maths Polynomials  April 23, 2020
-146. 10 Physics Electrical Symbol  April 23, 2020
-147. 12 Chemistry Solutions Colligative Properties  April 23, 2020
-148. Accounts Guarantee Of To A Partner  April 23, 2020
-149. 12 Economic Role Of Public Sectors Video 01  April 23, 2020
-150. 12 Economic Industrial Policy 1956 Video 02  April 23, 2020
-151. 12 IP Simple Query Part 02  April 23, 2020
-152. 12 Mathematics Matrices  April 23, 2020
-153. 12 Physics Electric Flux 01  April 23, 2020
-154. 12 Physics Gauss Law 02  April 23, 2020
-155. 12 Biology Microsporogenesis and Microgametogenesis  April 23, 2020
-156. 12 English Poem An Elementary School Classroom In A Slum  April 23, 2020
-157. 12 Pol Sc Cold War Text Book Question Discussion  April 23, 2020
-158. 12 Mathematics Metrics Algebra Part 01 and Part 02  April 23, 2020
-159. 09 Biology IIFR Cropping Pattern  April 22, 2020
-160. 09 Chemistry CH 02 Is Matter Around Us Is Pure  April 22, 2020
-161. 09 English The Sound Of Music Part II The Shehnai Of Bismillah Khan 01  April 22, 2020
-162. 09 English The Sound Of Music Part II The Shehnai Of Bismillah Khan 02  April 22, 2020
-163. 09 English The Sound Of Music Part II The Shehnai Of Bismillah Khan 03  April 22, 2020
-164. 09 Physics Motion Graphical Representation  April 22, 2020
-165. 10 Chemistry Types Of Chemical Reactions  April 22, 2020
-166. 10 Civics Power Sharing Among Levels Of Governments  April 22, 2020
-167. 10 English Nelson Mandela Long Walk to Freedom  April 22, 2020
-168. 10 History NII Congress Session Part 01  April 22, 2020
-169. 10 History NII Movement Spread Part 02  April 22, 2020
-170. 10 Maths Polynomial  April 22, 2020
-171. 12 Maths Function Part 05  April 22, 2020
-172. 12 BST Management As a Profession  April 22, 2020
-173. 12 English lost Spring Part 02 vdo 01  April 22, 2020
-174. 12 English lost Spring Part 02 vdo 02  April 22, 2020
-175. 12 History Harappan Civilization procuring Materials  April 22, 2020
-176. 12 Maths Function Part 04  April 22, 2020
-177. 12 Maths Function Part 06  April 22, 2020
-178. 12 Biology Sexual Reproduction In Flowering Plant  April 22, 2020
-179. 12 Chemistry Raoults Law  April 22, 2020
-180. 12 Physics Electrostatics Electric Dipole Part 01  April 22, 2020
-181. 12 Physics Electrostatics Electric Field Part 02  April 22, 2020
-182. 09 CA Computer System Memory Hierarchy Characteristics  April 22, 2020
-183. 09 Maths Number System Irrational Number System  April 21, 2020
-184. 10 Biology Nutrition In Animals  April 21, 2020
-185. 10 Economics CH 01 Development Average Income  April 21, 2020
-186. 10 Hindi Bade Bhai Sahab  April 21, 2020
-187. 10 Maths Real Numbers  April 21, 2020
-188. 12 Accountancy Methods  of Maintaining Partners Capital Account  April 21, 2020
-189. 12 Arts Political Science New International Economic Order  April 21, 2020
-190. 12 Biology Parthenogenesis  April 21, 2020
-191. 12 Economic Planning 1950-91 Part 01  April 21, 2020
-192. 12 Economic Planning 1950-91 Part 02  April 21, 2020
-193. 12 English Lost Spring Part 01  April 21, 2020
-194. 12 English Lost Spring Part 02  April 21, 2020
-195. 12 Maths Function Part 01  April 21, 2020
-196. 12 Maths Function Part 02  April 21, 2020
-197. 12 Maths Function Part 03  April 21, 2020
-198. 12 Chemistry Solution Of Gases In Liquid  April 21, 2020
-199. 12 Physics Electric Field Part 01  April 21, 2020
-200. 12 Physics Electric Field Part 02  April 21, 2020
-201. 09 Economics Land Sustained Distributed  April 20, 2020
-202. 09 Geography Size Location Of India Part 01  April 20, 2020
-203. 09 Geography Size Location Of India Part 02  April 20, 2020
-204. 09 Hindi Dukh Ka Adhikaaar Vyakaran Aashay  April 20, 2020
-205. 09 History The French Revolution Part 01  April 20, 2020
-206. 09 History The French Revolution Part 02  April 20, 2020
-207. 09 Pol Sc CH 02 What and Why Democracy  April 20, 2020
-208. 10 Chemistry Chemical Reactions  April 20, 2020
-209. 10 English Nelson Mandela  April 20, 2020
-210. 10 Geography Indiscriminate Use Of Resources Video 01  April 20, 2020
-211. 10 Geography Agenda 21 Video 02  April 20, 2020
-212. 10 Maths Real Numbers  April 20, 2020
-213. 12 Biology CH 01 Fertilization  April 20, 2020
-214. 12 BST Nature Of Management  April 20, 2020
-215. 12 Chemistry Solid State  April 20, 2020
-216. 12 English Topic Notice Writing  April 20, 2020
-217. 12 History Query Discussion  April 20, 2020
-218. 12 History Harappan Civilization Part 01  April 20, 2020
-219. 12 History Harappan Civilization Part 02  April 20, 2020
-220. 12 IP Simple Query Part 01  April 20, 2020
-221. 12 Maths Continuity and Differentiability Part 05  April 20, 2020
-222. 12 Maths Continuity and Differentiability Part 06  April 20, 2020
-223. 12 Maths Continuity and Differentiability Part 07  April 20, 2020
-224. 12 Physics Super Position Principle  April 20, 2020
-225. 10 History Nationalism In India Part 02  April 20, 2020
-226. 09 CA Computer System CPU Functioning  Leave a comment
-227. 12 Maths Contuinity and Differentiability Part 02  April 19, 2020
-228. 09 English The Sound Of Music Part 01  April 19, 2020
-229. 12 Accountancy Topic PL Appropriation  April 19, 2020
-230. 12 Biology TOPIC Events in Sexual Reproduction  April 19, 2020
-231. 12 Chemistry Solubility Of a Solute  April 19, 2020
-232. 10 Geography CH 01 Resource And Development Part 03  April 19, 2020
-233. 10 Hindi Gadya Khand Bade Bhai Sahab  April 19, 2020
-234. 12 Physics Coulombs Law Lecture 01  April 19, 2020
-235. 09 Biology Crop Production Management  April 19, 2020
-236. 09 Chemistry Evaporation Part 01  April 19, 2020
-237. 09 Chemistry Plasma State Of Matter Part 02  April 19, 2020
-238. 10 Physics Types Of Flow Charge  April 19, 2020
-239. 12 English The Third Level Part 1  April 19, 2020
-240. 12 BST Nature And Significance Of Management  April 19, 2020
-241. 12 Maths Contuinity and Differentiability Part 03  April 19, 2020
-242. 10 History Non Co-Operation Movement Part 02  April 19, 2020
-243. 12 English The Third Level Part 2  April 19, 2020
-244. 10 History Non Co Operation Movement Part 01  April 19, 2020
-245. 09 English The Sound Of Music Part 02  April 19, 2020
-246. 12 Maths Contuinity and Differentiability Part 04  April 19, 2020
-247. 12 Maths Contuinity and Differentiability Part 01  April 19, 2020
-248. 10 Html Container Empty Elements Basic Structure HTML  April 19, 2020
-249. 10 History Nationalism In India Part 01  April 19, 2020
-250. 10 Maths Fundamental Theorem Of Arithmetic  April 19, 2020
-251. 12 Economic Planning Topic Green Revolution Failures part 2  April 19, 2020
-252. 10 Economics National Development  April 19, 2020
-253. 10 Hindi Saakhi Part 02  April 19, 2020
-254. 10 Geography CH 01 Resource And Development Part 01  April 19, 2020
-255. 12 Pol Sc Cold War Queries Discussion  April 19, 2020
-256. 09 Physics Motion Rate Of Change Of Velocity  April 19, 2020
-257. 12 Arts Political Science Congo Crisis  April 19, 2020
-258. 09 Maths Number System Part 02  April 19, 2020
-259. 10 Civics Chapter Power Sharing Accommodation In Belgium  April 19, 2020
-260. 10 Geography CH 01 Resource And Development Part 02  April 19, 2020
-261. 09 CA Query Book And Copy  April 19, 2020
-262. 10 Civics CH 01 Majoritarianism In Sri Lanka  April 19, 2020
-263. 12 Pol Sc Logic Of Deterrence  April 19, 2020
-264. 12 Economic Planning Green Revolution Achievements part 1  April 19, 2020
-265. 10 Hindi Saakhi Part 01  April 19, 2020
-266. 12 Mathematics Metrics Algebra Part 01  April 19, 2020
-267. 12 Physics Coulombs Law Lecture 02  April 19, 2020
-268. 12 Biology Sexual Reproduction  April 19, 2020
-269. Class 10 CA  HTML Basic Terminologies  April 16, 2020
-270. Class 09 Geography India In The World Part 01  April 16, 2020
-271. Class 09 Geography India In The World Part 02  April 16, 2020
-272. Class 09 Geography India In The World Part 03  April 16, 2020
-273. Class 09 Economics Farming In Palampur  April 16, 2020
-274. Class 09 Hindi Sparsh Dukh Ka Adhikaar  April 16, 2020
-275. Class 09 History French Revolution Second Factor Part 01  April 16, 2020
-276. Class 09 History French Revolution Second Factor Part 02  April 16, 2020
-277. Class 09 Pol Sc Poland  April 16, 2020
-278. Class 10 Biology Nutrition in Plants  April 16, 2020
-279. Class 10 Chemistry Chemical Reactions Equation Part 02  April 16, 2020
-280. Class 10 ENG CH 01 A letter to GOD  April 16, 2020
-281. Class 10 Physics Electricity  April 16, 2020
-282. Class 12 Chemistry Formula Concentration of The Solutions  April 16, 2020
-283. Class 12 PHE Pre During Post Tournament Responsibilities Part 01  April 16, 2020
-284. Class 12 PHE  Pre During Post Tournament Responsibilities Part 02  April 16, 2020
-285. Class 12 IP Getting started with MySQL  April 16, 2020
-286. Class 12 Economic Indian Economy part 01  April 16, 2020
-287. Class 12 Economic Indian Economy part 02  April 16, 2020
-288. Class 09 Biology Improvement in Food Resources  April 15, 2020
-289. Class 09 Chemistry Matter 01  April 15, 2020
-290. Class 09 Chemistry Matter 02  April 15, 2020
-291. Class 09 Computer Applications Topic Computer System  April 15, 2020
-292. Class 09 English The Road Not Taken Part 01  April 15, 2020
-293. Class 09 English The Road Not Taken Part 02  April 15, 2020
-294. Class 09 Physics Motion Speed Part 02  April 15, 2020
-295. Class 09 Physics Motion Speed Part 03  April 15, 2020
-296. Class 10 Maths Real Numbers Euclid Division Lamma  April 15, 2020
-297. Class 12 History Mohenjodaro  April 15, 2020
-298. Class 12 Accounts Calculation of Interest On Capital 01  April 15, 2020
-299. Class 12 Accounts Calculation of Interest On Capital 02  April 15, 2020
-300. Class 12 Accounts Calculation of Interest On Capital 03  April 15, 2020
-301. Class 12 English The Last Lesson Part 02  April 15, 2020
-302. Class 12 English The Last Lesson Part 01  April 15, 2020
-303. Class 12 Physics Electrostatics Charge Part 02  April 15, 2020
-304. Class 09 Maths Natural Numbers  April 14, 2020
-305. Class 10 Civics Democratic Politics  April 14, 2020
-306. Class 10 Economics CH 01 Development  April 14, 2020
-307. Class10 Geography Resource and Development Part 02  April 14, 2020
-308. Class10 Geography Resource and Development Part 01  April 14, 2020
-309. Class 10 History Indian Freedom Struggle Part 02  April 14, 2020
-310. Class 10 History Indian Freedom Struggle Part 01  April 14, 2020
-311. Class 12 Biology Reproduction Part 02  April 14, 2020
-312. Class 12 Biology Reproduction Part 01  April 14, 2020
-313. Class 12 BST Management and Its Features  April 14, 2020
-314. Class 12 Maths Relation and Function Part02  April 14, 2020
-315. Class 12 Maths Relation and Function Part01  April 14, 2020
-316. Class 12 Pol Sc The Cold War  April 14, 2020
-317. Class 10 Biology CH 06 Life Process Mode Of Nutrition Part 1 & Part 2  April 14, 2020
-318. Class10 Physics Electricity  April 13, 2020
-319. Class 09 Hindi CH 01 Raidas Ke pad  April 13, 2020
-320. Class 09 History French Revolution Part 03  April 13, 2020
-321. Class 09 History French Revolution Part 02  April 13, 2020
-322. Class 09 History French Revolution Part 01  April 13, 2020
-323. Class 09 Geography CH 01 India Size and Location  April 13, 2020
-324. Class 09 Economics CH 01 Story Of Village Palampur  April 13, 2020
-325. Class 09 Civics CH 01 Democracy in Contemporary World  April 13, 2020
-326. Class 10 Chemistry Chemical Reactions and Equations  April 13, 2020
-327. Class 10 English CH 01 First Flight  April 13, 2020
-328. Class 12 IP DBMS  April 13, 2020
-329. Class 12 PHE Planning in Sports  April 13, 2020
-330. Class 12 Economics Indian Economy During Independence Part 02  April 13, 2020
-331. Class 12 Economics Indian Economy During Independence Part 01  April 13, 2020
-332. Class12 Chemistry CH02 Solutions  April 13, 2020
-333. Class 09 English Fun Day Lesson 01  April 13, 2020
-334. Class12 History Harrapancivilization  April 13, 2020
-335. Class 10 CA HTML Introduction Part 01  April 12, 2020
-336. class12 English Lesson01  April 12, 2020
-337. Class12 English Core  April 12, 2020
-338. Class 09 CHEMISTRY  April 12, 2020
-339. Class09 Biology Food Resources  April 12, 2020
-340. Class 12 Physics Electrostatics Charge Part01  April 12, 2020
-341. Accountancy (XII) Topic Fundamentals of partnership firm 2  April 12, 2020
-342. Accountancy (XII) Topic Fundamentals of partnership firm  April 12, 2020
-343. Class 9th  physics  April 12, 2020
-344. Class -X (maths) Real Numbers | class 10 | Maths  April 12, 2020
+1. 09 CA TOH Secondary Storage Optical Media  May 6, 2020
+2. 09 Maths Number System Video 07  May 6, 2020
+3. 10 Hindi Sparsh Bihari Ke Dohe Video 01  May 6, 2020
+4. 10 Hindi Sparsh Bihari Ke Dohe Video 02  May 6, 2020
+5. 10 Economics CH 01 Video 07 Topic Sustainable Development  May 6, 2020
+6. 10 Maths Topic Linear Equation In Two Variables  May 6, 2020
+7. 10 Biology NCERT Questions Nutrition  May 6, 2020
+8. 12 Accountancy Topic Accounting Treatment Of Reserve And Losses  May 6, 2020
+9. 12 Arts Political Sc CH 02 The End Of Bipolarity World Politics Part 01  May 6, 2020
+10. 12 Biology Human Reproduction Part 06  May 6, 2020
+11. 12 Chemistry Solid state  Location of voids  Lecture 03  May 6, 2020
+12. 12 Economics  Economic Reforms Since 1991  May 6, 2020
+13. 12 English Notemaking Part 01  May 6, 2020
+14. 12 Maths Inverse Trigonometric Function Part 01  May 6, 2020
+15. 12 Maths Inverse Trigonometric Function Part 02  May 6, 2020
+16. 12 Physics Conductors And Insulators Part 03  May 6, 2020
+17. 09 Economics NCERT Exercise Questions Discussion  May 5, 2020
+18. 09 Geography CH 01 India Size Location Neighboring Countries Part 01  May 5, 2020
+19. 09 Geography CH01 India Size Location States Territories Part02  May 5, 2020
+20. 09 Hindi Sparsh Rahim Ke Dohe Video 01  May 5, 2020
+21. 09 History The French Revolution Topic Robespierre�s Govt Part 01  May 5, 2020
+22. 09 History The French Revolution Topic The Directory Rule Part 02  May 5, 2020
+23. 09 Pol Sc NCERT Text Book Exercise Discussion  May 5, 2020
+24. 10 Chemistry Bases  May 5, 2020
+25. 10 English The Ball Poem Part 01  May 5, 2020
+26. 10 English The Ball Poem Part 02  May 5, 2020
+27. 10 Geography CH 01 Land Degradation Part 01  May 5, 2020
+28. 10 Geography CH 01 Land Degradation Part 02  May 5, 2020
+29. 10 Maths Topic Linear Equation In Two Variables  May 5, 2020
+30. 12 Physics Conductors And Insulators Part 02  May 5, 2020
+31. 12 Maths Cont And Diff Video 06  May 5, 2020
+32. 12 BST TOPIC PRINCIPLES OF MANAGEMENT  May 5, 2020
+33. 12 Biology Human Reproduction PART 5  May 5, 2020
+34. 12 Chemistry Solid State Packing Lecture 02  May 5, 2020
+35. 12 English The Tiger King Part 02  May 5, 2020
+36. 12 History Kings Farmers And Towns  May 5, 2020
+37. 12 IP MySQL Update and Delete Commands  May 5, 2020
+38. 09 Biology Fundamental Unit Of Life Cell Part 01  May 4, 2020
+39. 09 Chemistry Lesson 02  May 4, 2020
+40. 09 English  The Lost Child Part 1  May 4, 2020
+41. 09 English  The Lost Child Part 2  May 4, 2020
+42. 09 Physics Motion Video 07 Including Assignment  May 4, 2020
+43. 09 CA TOH Secondary Storage HDD FDD  May 4, 2020
+44. 09 Maths Number System Video 06  May 4, 2020
+45. 10 Biology CH 06 Process of Digestion Nutrition In  Human Beings  May 4, 2020
+46. 10 Economics Chapter 01 Topic BMI And HDR Video 06  May 4, 2020
+47. 10 English How To Tell Wild  Animals Part 01  May 4, 2020
+48. 10 English How To Tell Wild  Animals Part 02  May 4, 2020
+49. 10 Maths Polynomials Video 06  May 4, 2020
+50. 10 CA HTML Tags Physical And Logical Text Styles  May 4, 2020
+51. 10 CIVICS CH 02 Federalism Part 02  May 4, 2020
+52. 10 Hindi CH 02 Meera Ke Pad Video 02  May 4, 2020
+53. 10 History Part 01  May 4, 2020
+54. 10 History Part 02  May 4, 2020
+55. 10 Maths Linear Equation In Two Variables  May 4, 2020
+56. 10 Physics Electricity  May 4, 2020
+57. 12 Accountancy Topic Reconstitution Of Partnership Firm  May 4, 2020
+58. 12 Arts Political Science CH 01 Nation Building Indian Politics  May 4, 2020
+59. 12 Biology Female Reproductive System Oogenesis Part 04  May 4, 2020
+60. 12 Chemistry Solid State Lecture 01  May 4, 2020
+61. 12 Economics WTO And Appraisal Of LPG  May 4, 2020
+62. 12 English The Tiger King Part 01  May 4, 2020
+63. 12 Maths Cont And Diff Including Solution Of 2nd Assignment  May 4, 2020
+64. 12 Physics Conductors And Insulators Part 01  May 4, 2020
+65. 12 Physics Electrostatics Analysis Of Energy  May 2, 2020
+66. 12 Biology Female Reproductive System Part 03  May 2, 2020
+67. 12 BST Topic Nature And Significance Of Coordination  May 2, 2020
+68. 12 Chemistry Crystal Lattice  May 2, 2020
+69. 12 Economics Privatization  May 2, 2020
+70. 12 English Poetry Writing Competition  May 2, 2020
+71. 12 English Keeping Quiet Part 02  May 2, 2020
+72. 12 History Problem In Piecing Together In Past  May 2, 2020
+73. 12 Maths  Lesson 04 Determinants Part 03  May 2, 2020
+74. 12 Maths  Lesson 04 Determinants Part 04  May 2, 2020
+75. 12 PHE Topic Consolation Tournament And Seeding Method  May 2, 2020
+76. 12 Chemistry Solid Part 02  May 1, 2020
+77. 09 Economics CH 01 Video 06 Assignment Questions Solution  May 1, 2020
+78. 09 Geography CH 01 Part 01  May 1, 2020
+79. 09 Geography CH 01 Part 02  May 1, 2020
+80. 09 Hindi Everest Meri Shikhar Yatra  May 1, 2020
+81. 09 History The French Revolution Reign Of Terror Part 01  May 1, 2020
+82. 09 History The French Revolution Reign Of Terror Part 02  May 1, 2020
+83. 09 Pol Sc CH 02 Topic Fourth Feature Of Democracy Video 04  May 1, 2020
+84. 10 Geography CH 01 Part 01  May 1, 2020
+85. 10 Geography CH 01 Part 02  May 1, 2020
+86. 10 Hindi CH 02 Meera Ke Pad Video 01  May 1, 2020
+87. 10 Maths Division Algorithm for Polynomial  May 1, 2020
+88. 10 Physics Numericals Of Electricity  May 1, 2020
+89. 12 English Keeping Quiet  May 1, 2020
+90. 12 IP Simple Query Part 04  May 1, 2020
+91. 12 Physics Potential Energy of System Of Charges Lecture 05 2  May 1, 2020
+92. 12 ACCOUNTANCY  TOPIC VALUATION OF GOODWILL  May 1, 2020
+93. 12 Arts Pol Sc Book 02 CH 01 Nation building Part 03  May 1, 2020
+94. 12 Biology Human Reproduction Part 02  May 1, 2020
+95. 12 Economics Topic Economic Reforms Since 1991  May 1, 2020
+96. 12 Maths Determinants 01  May 1, 2020
+97. 12 Maths Determinants 02  May 1, 2020
+98. 09 Biology CH Improvement In  Food Resources Topic Fish Production  April 30, 2020
+99. 09 Chemistry Lesson V 03  April 30, 2020
+100. 09 English The Wind Video 01  April 30, 2020
+101. 09 English The Wind Video 02  April 30, 2020
+102. 09 Physics Motion Video 6  April 30, 2020
+103. 10 CA HTML Font HR Comment Tags  April 30, 2020
+104. 10 Chemistry Lesson 02 V 02  April 30, 2020
+105. 10 CIVICS Chapter 02 Federalism  April 30, 2020
+106. 10 English Tiger In The Zoo Part 01  April 30, 2020
+107. 10 English Tiger In The Zoo Part 02  April 30, 2020
+108. 10 History Part 01  April 30, 2020
+109. 10 History Part 02  April 30, 2020
+110. 10 Maths Polynomials Video 04  April 30, 2020
+111. 12 Physics Equipotential Surface 02 Lecture 04 1  April 30, 2020
+112. 12 B STUDIES TOPIC COORDINATION  April 30, 2020
+113. 12 Biology Human Reproduction Part 01  April 30, 2020
+114. 12 Chemistry Abnormal Molar Masses Vant Hoff�s Factor Lecture 04  April 30, 2020
+115. 12 English Deep Water Part 02  April 30, 2020
+116. 12 History Announcing The Discovery Of IVC  April 30, 2020
+117. 12 Maths Function Problem Solutions 01  April 30, 2020
+118. 12 Maths Function Problem Solutions 02  April 30, 2020
+119. 09 Maths Number System Video 05  April 29, 2020
+120. 09 CA Types Of Hardware Memory Unit  April 29, 2020
+121. 10 Maths Word Problems Real Number  April 29, 2020
+122. 10 Hindi Diary Ka Ek Panna video 02  April 29, 2020
+123. 10 Economics CH 01 Topic Public Facilities Video 05  April 29, 2020
+124. 10 Biology Nutrition In Human Beings Part 02 Associated Glands 01  April 29, 2020
+125. 12 Accountancy Topic Past Adjustments Entry  April 29, 2020
+126. 12 English Deep Water Part 01  April 29, 2020
+127. 12 English Deep Water Part 02  April 29, 2020
+128. 12 Arts Pol Sc CH 01 Partition  April 29, 2020
+129. 12 Physics Topic Equipotential Surface Part 01  April 29, 2020
+130. 12 Economics CH 03 Topic Economic Reform Since 1991  April 29, 2020
+131. 12 Biology Development Of Monocot Embryo  April 29, 2020
+132. 12 Chemistry Colligative Properties Osmotic Pressure Lecture 3  April 29, 2020
+133. 12 Maths Functions Composition Part 01  April 29, 2020
+134. 12 Maths Functions Composition Part 02  April 29, 2020
+135. 12 Maths Functions Composition Part 03  April 29, 2020
+136. 12 Maths Functions Composition Part 04  April 29, 2020
+137. 09 Civics Democracy  April 28, 2020
+138. 09 Economics Non Farming Activities  April 28, 2020
+139. 09 Geography India Size Location Part 01  April 28, 2020
+140. 09 Geography India Size Location Part 02  April 28, 2020
+141. 09 Hindi CH 02 Everest Meri Shikhar Yatra  April 28, 2020
+142. 09 History French Revolution Part 01  April 28, 2020
+143. 09 History French Revolution Part 02  April 28, 2020
+144. 10 Chemistry Compounds Acids Bases Salts  April 28, 2020
+145. 10 English Fire And Frost  April 28, 2020
+146. 10 Geography Resource And Development Part 01  April 28, 2020
+147. 10 Geography Resource And Development Part 02  April 28, 2020
+148. 10 Maths Real Numbers Theorem  April 28, 2020
+149. 12 Biology Development Of Embryo  April 28, 2020
+150. 12 IP Simple Query Part 03  April 28, 2020
+151. 12 History Harappan Civilization  April 28, 2020
+152. 12 Maths Continuity And Differentiability Part 10  April 28, 2020
+153. 12 BST Topic Functions Of Management  April 28, 2020
+154. 12 English Commercial Advertisement Assignment  April 28, 2020
+155. 12 Chemistry Azeotropic mixture Part 02  April 28, 2020
+156. 12 Physics Electric Potential Part 02  April 28, 2020
+157. 10 Biology Life Processes Nutrition In Human Beings  April 27, 2020
+158. 09 Biology Improvement In Food Resources Animal Husbandry  April 27, 2020
+159. 09 CA CH 02 Types Of Hardware  April 27, 2020
+160. 09 Chemistry Is Matter Around Us Pure  April 27, 2020
+161. 09 English Beehive Poem Wind Part 01  April 27, 2020
+162. 09 English Beehive Poem Wind Part 02  April 27, 2020
+163. 09 Maths Number System Completeness Density Property  April 27, 2020
+164. 09 Physics Motion Velocity Time Graph  April 27, 2020
+165. 10 CA HTML Body Attributes  April 27, 2020
+166. 10 Civics Chapter 01 Power Sharing Last Part  April 27, 2020
+167. 10 Economics Development Income And other Criteria  April 27, 2020
+168. 10 English Dust Of Snow  April 27, 2020
+169. 10 Hindi Diary Ka Ek Panna Sparsh  April 27, 2020
+170. 10 History NII Rebellion Country Side Part 01  April 27, 2020
+171. 10 History NII Rebellion Country Side Part 02  April 27, 2020
+172. 10 Maths Polynomials  April 27, 2020
+173. 10 Maths Real Numbers  April 27, 2020
+174. 10 Physics Electricity Ohms Law Resistance  April 27, 2020
+175. 12 Chemistry Ideal Non Ideal Solutions And Azeotropic Part 01  April 27, 2020
+176. 12 Biology Growth Of Pollen Tube And Double Fertilization  April 27, 2020
+177. 12 Accounts Topic Past Adjustment Guarantee Of Profits  April 27, 2020
+178. 12 Arts Political Science CH 01 Nation Building  April 27, 2020
+179. 12 Economics Economic Planning 1950 90 Topic Subsidy  April 27, 2020
+180. 12 English Writing Section Advertisement Writing  April 27, 2020
+181. 12 Maths Continuity and Differentiability Part 08  April 27, 2020
+182. 12 Maths Continuity and Differentiability Part 09  April 27, 2020
+183. 12 Physics Electric Potential  April 27, 2020
+184. 12 Physics Applications Of Gauss�s  Theorem Charged  Wire Part 01  April 25, 2020
+185. 12 Physics Applications Of Gauss�s Theorem Thin Sheet Part 02  April 25, 2020
+186. 12 Physics Applications Of Gauss�s Theorem Thin Sheet Thin Spherical Shell Part 03  April 25, 2020
+187. 12 Chemistry Elevation Of Boiling Point  April 25, 2020
+188. 12 Biology Gynoecium  April 25, 2020
+189. 12 BST Topic Level Of Management  April 25, 2020
+190. 12 Economics Economic Planning 1950-90 Part 01  April 25, 2020
+191. 12 Economics Economic Planning 1950-90 Part 02  April 25, 2020
+192. 12 History End Of Harappan Civilization  April 25, 2020
+193. 12 Matrices Lesson 03 Part 01  April 25, 2020
+194. 12 Matrices Lesson 03 Part 02  April 25, 2020
+195. 12 PHE Method Of Preparing Fixtures In Knock Out Tournament 01  April 25, 2020
+196. 12 PHE Topic League Or Round Robin Tournament 02  April 25, 2020
+197. 12 English Poem An Elementary School Classroom in a Slum The Third Stanza  April 25, 2020
+198. 09 Hindi raidas ke pad video 2  2 comments
+199. 09 Economics Capital  April 24, 2020
+200. 09 Geography India Size Location 01  April 24, 2020
+201. 09 Geography Merits Of India�s Central Location 02  April 24, 2020
+202. 09 Hist The French Revolution 01  April 24, 2020
+203. 09 Hist The French Revolution 02  April 24, 2020
+204. 09 Pol Sc CH 02 Democracy  April 24, 2020
+205.  April 24, 2020
+206. 10 02 Geography Conservation of Resources  April 24, 2020
+207. 10 Hindi Bade Bhai Sahab Video 2  April 23, 2020
+208. 10 CA HTML Basic Tags  April 23, 2020
+209. 10 Maths Polynomials  April 23, 2020
+210. 10 Physics Electrical Symbol  April 23, 2020
+211. 12 Chemistry Solutions Colligative Properties  April 23, 2020
+212. Accounts Guarantee Of To A Partner  April 23, 2020
+213. 12 Economic Role Of Public Sectors Video 01  April 23, 2020
+214. 12 Economic Industrial Policy 1956 Video 02  April 23, 2020
+215. 12 IP Simple Query Part 02  April 23, 2020
+216. 12 Mathematics Matrices  April 23, 2020
+217. 12 Physics Electric Flux 01  April 23, 2020
+218. 12 Physics Gauss Law 02  April 23, 2020
+219. 12 Biology Microsporogenesis and Microgametogenesis  April 23, 2020
+220. 12 English Poem An Elementary School Classroom In A Slum  April 23, 2020
+221. 12 Pol Sc Cold War Text Book Question Discussion  April 23, 2020
+222. 12 Mathematics Metrics Algebra Part 01 and Part 02  April 23, 2020
+223. 09 Biology IIFR Cropping Pattern  April 22, 2020
+224. 09 Chemistry CH 02 Is Matter Around Us Is Pure  April 22, 2020
+225. 09 English The Sound Of Music Part II The Shehnai Of Bismillah Khan 01  April 22, 2020
+226. 09 English The Sound Of Music Part II The Shehnai Of Bismillah Khan 02  April 22, 2020
+227. 09 English The Sound Of Music Part II The Shehnai Of Bismillah Khan 03  April 22, 2020
+228. 09 Physics Motion Graphical Representation  April 22, 2020
+229. 10 Chemistry Types Of Chemical Reactions  April 22, 2020
+230. 10 Civics Power Sharing Among Levels Of Governments  April 22, 2020
+231. 10 English Nelson Mandela Long Walk to Freedom  April 22, 2020
+232. 10 History NII Congress Session Part 01  April 22, 2020
+233. 10 History NII Movement Spread Part 02  April 22, 2020
+234. 10 Maths Polynomial  April 22, 2020
+235. 12 Maths Function Part 05  April 22, 2020
+236. 12 BST Management As a Profession  April 22, 2020
+237. 12 English lost Spring Part 02 vdo 01  April 22, 2020
+238. 12 English lost Spring Part 02 vdo 02  April 22, 2020
+239. 12 History Harappan Civilization procuring Materials  April 22, 2020
+240. 12 Maths Function Part 04  April 22, 2020
+241. 12 Maths Function Part 06  April 22, 2020
+242. 12 Biology Sexual Reproduction In Flowering Plant  April 22, 2020
+243. 12 Chemistry Raoults Law  April 22, 2020
+244. 12 Physics Electrostatics Electric Dipole Part 01  April 22, 2020
+245. 12 Physics Electrostatics Electric Field Part 02  April 22, 2020
+246. 09 CA Computer System Memory Hierarchy Characteristics  April 22, 2020
+247. 09 Maths Number System Irrational Number System  April 21, 2020
+248. 10 Biology Nutrition In Animals  April 21, 2020
+249. 10 Economics CH 01 Development Average Income  April 21, 2020
+250. 10 Hindi Bade Bhai Sahab  April 21, 2020
+251. 10 Maths Real Numbers  April 21, 2020
+252. 12 Accountancy Methods  of Maintaining Partners Capital Account  April 21, 2020
+253. 12 Arts Political Science New International Economic Order  April 21, 2020
+254. 12 Biology Parthenogenesis  April 21, 2020
+255. 12 Economic Planning 1950-91 Part 01  April 21, 2020
+256. 12 Economic Planning 1950-91 Part 02  April 21, 2020
+257. 12 English Lost Spring Part 01  April 21, 2020
+258. 12 English Lost Spring Part 02  April 21, 2020
+259. 12 Maths Function Part 01  April 21, 2020
+260. 12 Maths Function Part 02  April 21, 2020
+261. 12 Maths Function Part 03  April 21, 2020
+262. 12 Chemistry Solution Of Gases In Liquid  April 21, 2020
+263. 12 Physics Electric Field Part 01  April 21, 2020
+264. 12 Physics Electric Field Part 02  April 21, 2020
+265. 09 Economics Land Sustained Distributed  April 20, 2020
+266. 09 Geography Size Location Of India Part 01  April 20, 2020
+267. 09 Geography Size Location Of India Part 02  April 20, 2020
+268. 09 Hindi Dukh Ka Adhikaaar Vyakaran Aashay  April 20, 2020
+269. 09 History The French Revolution Part 01  April 20, 2020
+270. 09 History The French Revolution Part 02  April 20, 2020
+271. 09 Pol Sc CH 02 What and Why Democracy  April 20, 2020
+272. 10 Chemistry Chemical Reactions  April 20, 2020
+273. 10 English Nelson Mandela  April 20, 2020
+274. 10 Geography Indiscriminate Use Of Resources Video 01  April 20, 2020
+275. 10 Geography Agenda 21 Video 02  April 20, 2020
+276. 10 Maths Real Numbers  April 20, 2020
+277. 12 Biology CH 01 Fertilization  April 20, 2020
+278. 12 BST Nature Of Management  April 20, 2020
+279. 12 Chemistry Solid State  April 20, 2020
+280. 12 English Topic Notice Writing  April 20, 2020
+281. 12 History Query Discussion  April 20, 2020
+282. 12 History Harappan Civilization Part 01  April 20, 2020
+283. 12 History Harappan Civilization Part 02  April 20, 2020
+284. 12 IP Simple Query Part 01  April 20, 2020
+285. 12 Maths Continuity and Differentiability Part 05  April 20, 2020
+286. 12 Maths Continuity and Differentiability Part 06  April 20, 2020
+287. 12 Maths Continuity and Differentiability Part 07  April 20, 2020
+288. 12 Physics Super Position Principle  April 20, 2020
+289. 10 History Nationalism In India Part 02  April 20, 2020
+290. 09 CA Computer System CPU Functioning  Leave a comment
+291. 12 Maths Contuinity and Differentiability Part 02  April 19, 2020
+292. 09 English The Sound Of Music Part 01  April 19, 2020
+293. 12 Accountancy Topic PL Appropriation  April 19, 2020
+294. 12 Biology TOPIC Events in Sexual Reproduction  April 19, 2020
+295. 12 Chemistry Solubility Of a Solute  April 19, 2020
+296. 10 Geography CH 01 Resource And Development Part 03  April 19, 2020
+297. 10 Hindi Gadya Khand Bade Bhai Sahab  April 19, 2020
+298. 12 Physics Coulombs Law Lecture 01  April 19, 2020
+299. 09 Biology Crop Production Management  April 19, 2020
+300. 09 Chemistry Evaporation Part 01  April 19, 2020
+301. 09 Chemistry Plasma State Of Matter Part 02  April 19, 2020
+302. 10 Physics Types Of Flow Charge  April 19, 2020
+303. 12 English The Third Level Part 1  April 19, 2020
+304. 12 BST Nature And Significance Of Management  April 19, 2020
+305. 12 Maths Contuinity and Differentiability Part 03  April 19, 2020
+306. 10 History Non Co-Operation Movement Part 02  April 19, 2020
+307. 12 English The Third Level Part 2  April 19, 2020
+308. 10 History Non Co Operation Movement Part 01  April 19, 2020
+309. 09 English The Sound Of Music Part 02  April 19, 2020
+310. 12 Maths Contuinity and Differentiability Part 04  April 19, 2020
+311. 12 Maths Contuinity and Differentiability Part 01  April 19, 2020
+312. 10 Html Container Empty Elements Basic Structure HTML  April 19, 2020
+313. 10 History Nationalism In India Part 01  April 19, 2020
+314. 10 Maths Fundamental Theorem Of Arithmetic  April 19, 2020
+315. 12 Economic Planning Topic Green Revolution Failures part 2  April 19, 2020
+316. 10 Economics National Development  April 19, 2020
+317. 10 Hindi Saakhi Part 02  April 19, 2020
+318. 10 Geography CH 01 Resource And Development Part 01  April 19, 2020
+319. 12 Pol Sc Cold War Queries Discussion  April 19, 2020
+320. 09 Physics Motion Rate Of Change Of Velocity  April 19, 2020
+321. 12 Arts Political Science Congo Crisis  April 19, 2020
+322. 09 Maths Number System Part 02  April 19, 2020
+323. 10 Civics Chapter Power Sharing Accommodation In Belgium  April 19, 2020
+324. 10 Geography CH 01 Resource And Development Part 02  April 19, 2020
+325. 09 CA Query Book And Copy  April 19, 2020
+326. 10 Civics CH 01 Majoritarianism In Sri Lanka  April 19, 2020
+327. 12 Pol Sc Logic Of Deterrence  April 19, 2020
+328. 12 Economic Planning Green Revolution Achievements part 1  April 19, 2020
+329. 10 Hindi Saakhi Part 01  April 19, 2020
+330. 12 Mathematics Metrics Algebra Part 01  April 19, 2020
+331. 12 Physics Coulombs Law Lecture 02  April 19, 2020
+332. 12 Biology Sexual Reproduction  April 19, 2020
+333. Class 10 CA  HTML Basic Terminologies  April 16, 2020
+334. Class 09 Geography India In The World Part 01  April 16, 2020
+335. Class 09 Geography India In The World Part 02  April 16, 2020
+336. Class 09 Geography India In The World Part 03  April 16, 2020
+337. Class 09 Economics Farming In Palampur  April 16, 2020
+338. Class 09 Hindi Sparsh Dukh Ka Adhikaar  April 16, 2020
+339. Class 09 History French Revolution Second Factor Part 01  April 16, 2020
+340. Class 09 History French Revolution Second Factor Part 02  April 16, 2020
+341. Class 09 Pol Sc Poland  April 16, 2020
+342. Class 10 Biology Nutrition in Plants  April 16, 2020
+343. Class 10 Chemistry Chemical Reactions Equation Part 02  April 16, 2020
+344. Class 10 ENG CH 01 A letter to GOD  April 16, 2020
+345. Class 10 Physics Electricity  April 16, 2020
+346. Class 12 Chemistry Formula Concentration of The Solutions  April 16, 2020
+347. Class 12 PHE Pre During Post Tournament Responsibilities Part 01  April 16, 2020
+348. Class 12 PHE  Pre During Post Tournament Responsibilities Part 02  April 16, 2020
+349. Class 12 IP Getting started with MySQL  April 16, 2020
+350. Class 12 Economic Indian Economy part 01  April 16, 2020
+351. Class 12 Economic Indian Economy part 02  April 16, 2020
+352. Class 09 Biology Improvement in Food Resources  April 15, 2020
+353. Class 09 Chemistry Matter 01  April 15, 2020
+354. Class 09 Chemistry Matter 02  April 15, 2020
+355. Class 09 Computer Applications Topic Computer System  April 15, 2020
+356. Class 09 English The Road Not Taken Part 01  April 15, 2020
+357. Class 09 English The Road Not Taken Part 02  April 15, 2020
+358. Class 09 Physics Motion Speed Part 02  April 15, 2020
+359. Class 09 Physics Motion Speed Part 03  April 15, 2020
+360. Class 10 Maths Real Numbers Euclid Division Lamma  April 15, 2020
+361. Class 12 History Mohenjodaro  April 15, 2020
+362. Class 12 Accounts Calculation of Interest On Capital 01  April 15, 2020
+363. Class 12 Accounts Calculation of Interest On Capital 02  April 15, 2020
+364. Class 12 Accounts Calculation of Interest On Capital 03  April 15, 2020
+365. Class 12 English The Last Lesson Part 02  April 15, 2020
+366. Class 12 English The Last Lesson Part 01  April 15, 2020
+367. Class 12 Physics Electrostatics Charge Part 02  April 15, 2020
+368. Class 09 Maths Natural Numbers  April 14, 2020
+369. Class 10 Civics Democratic Politics  April 14, 2020
+370. Class 10 Economics CH 01 Development  April 14, 2020
+371. Class10 Geography Resource and Development Part 02  April 14, 2020
+372. Class10 Geography Resource and Development Part 01  April 14, 2020
+373. Class 10 History Indian Freedom Struggle Part 02  April 14, 2020
+374. Class 10 History Indian Freedom Struggle Part 01  April 14, 2020
+375. Class 12 Biology Reproduction Part 02  April 14, 2020
+376. Class 12 Biology Reproduction Part 01  April 14, 2020
+377. Class 12 BST Management and Its Features  April 14, 2020
+378. Class 12 Maths Relation and Function Part02  April 14, 2020
+379. Class 12 Maths Relation and Function Part01  April 14, 2020
+380. Class 12 Pol Sc The Cold War  April 14, 2020
+381. Class 10 Biology CH 06 Life Process Mode Of Nutrition Part 1 & Part 2  April 14, 2020
+382. Class10 Physics Electricity  April 13, 2020
+383. Class 09 Hindi CH 01 Raidas Ke pad  April 13, 2020
+384. Class 09 History French Revolution Part 03  April 13, 2020
+385. Class 09 History French Revolution Part 02  April 13, 2020
+386. Class 09 History French Revolution Part 01  April 13, 2020
+387. Class 09 Geography CH 01 India Size and Location  April 13, 2020
+388. Class 09 Economics CH 01 Story Of Village Palampur  April 13, 2020
+389. Class 09 Civics CH 01 Democracy in Contemporary World  April 13, 2020
+390. Class 10 Chemistry Chemical Reactions and Equations  April 13, 2020
+391. Class 10 English CH 01 First Flight  April 13, 2020
+392. Class 12 IP DBMS  April 13, 2020
+393. Class 12 PHE Planning in Sports  April 13, 2020
+394. Class 12 Economics Indian Economy During Independence Part 02  April 13, 2020
+395. Class 12 Economics Indian Economy During Independence Part 01  April 13, 2020
+396. Class12 Chemistry CH02 Solutions  April 13, 2020
+397. Class 09 English Fun Day Lesson 01  April 13, 2020
+398. Class12 History Harrapancivilization  April 13, 2020
+399. Class 10 CA HTML Introduction Part 01  April 12, 2020
+400. class12 English Lesson01  April 12, 2020
+401. Class12 English Core  April 12, 2020
+402. Class 09 CHEMISTRY  April 12, 2020
+403. Class09 Biology Food Resources  April 12, 2020
+404. Class 12 Physics Electrostatics Charge Part01  April 12, 2020
+405. Accountancy (XII) Topic Fundamentals of partnership firm 2  April 12, 2020
+406. Accountancy (XII) Topic Fundamentals of partnership firm  April 12, 2020
+407. Class 9th  physics  April 12, 2020
+408. Class -X (maths) Real Numbers | class 10 | Maths  April 12, 2020

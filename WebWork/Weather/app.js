@@ -26,7 +26,7 @@ window.addEventListener('load', ()=>{
                     const headline = data.weather[0].main
                     
                     //Set elements
-                    temperature.textContent = temp;
+                    temperature.textContent = Math.round(temp);
                     tempdesc.textContent = summary;
                     document.querySelector(".temperature-headline").textContent = headline;
                     timezone.textContent = data.name + ", " + data.sys.country;
@@ -44,7 +44,7 @@ window.addEventListener('load', ()=>{
                             temperature.textContent = Math.round(farenheit);
                         }else{
                             cf.textContent = "C";
-                            temperature.textContent = temp;
+                            temperature.textContent = Math.round(temp);
                         }
 
                     });

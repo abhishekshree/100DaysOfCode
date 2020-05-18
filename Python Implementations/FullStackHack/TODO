@@ -1,0 +1,34 @@
+Minimum Requirement (entry level)
+On Front End:
+
+Create a form on the UI which captures :
+D Fields for Data Capture (All fields are mandatory)
+D Full Name
+D Mobile
+D E-Mail
+D Upload ID Card (Formats: png, jpeg)
+D Registration type : Self/Group/Corporate/Others
+D No of Tickets: (If self prepopulate to 1, rest case mandate user to enter)
+
+Provide a preview Screen which should :
+D List all the fields as above.
+D Display ID card in the preview.
+
+On Submission :
+Registration ID has to be generated and displayed on Success Screen.
+Store all the information captured in a local database
+(Registration Date has to be generated as system date and get stored in Database)
+
+On Back end:
+
+Implement the backend in one of the desired Tech Stack provided below.
+This Backend should have database bindings to store the event registration info received from the Front End.
+The backend should be able to receive from and render to Front End all the event information, also store in and fetch from the database.
+
+Plus Point (intermediate)
+Along with everything asked in Minimum Requirement :
+Admin Login functionality.
+Display a Chart detailing count of Registration types.
+List all Registrations (Registration No, Date, Name fields should be displayed)
+Hyperlink to view on Click on Registration No
+Documented, well structured beautified code.

@@ -33,7 +33,7 @@
                     <div class="row"><span>Email: </span><span>{{context.email}}</span></div>
                     <div class="row"><span>Description:</span><span>{{context.desc}}</span></div>
                     <div class="row"><span>Registration Type: </span><span>{{context.type}}</span></div>
-                    <div class="row"><span>Registration Number: </span><span>adaa</span></div>
+                    <div class="row"><span>Registration Number: </span><span>{{ context.reg }}</span></div>
                     <div class="row"><span>Number of Tickets: </span><span>{{context.ticket}}</span></div>
                 </div>
 
@@ -43,9 +43,11 @@
             </div>
         </div>
     </div>
-    <div class="container" style="margin-bottom: 20px;">
-        <a href="thanks.html" class="btn center">Submit</a>
-        <a href="{{ url_for('form') }}" class="btn center">Change Details</a>
+    <div class="container row" style="margin-bottom: 20px;">
+    <form action="" method="POST" class="col">
+        <input type="submit" class="btn center">
+    </form>
+        <a href="{{ url_for('form') }}" class="btn center col">Change Details</a>
     </div>
 
     <!-- SCRIPTS -->

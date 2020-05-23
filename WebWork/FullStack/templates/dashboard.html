@@ -20,14 +20,13 @@
         <li><a href="{{url_for('logout')}}">Logout</a></li>
         <li><a href="{{url_for('form')}}">Add Event</a></li>
         <li><a href="{{url_for('signup')}}">Add Admin</a></li>
-        <li><a href="#">Help</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
         <li><a href="{{url_for('logout')}}">Logout</a></li>
         <li><a href="{{url_for('form')}}">Add Event</a></li>
+
         <li><a href="{{url_for('signup')}}">Add Admin</a></li>
-        <li><a href="#">Help</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
@@ -49,8 +48,9 @@
       <div class="col s12 m6" style="width:100%;">
         <div class="card blue-grey darken-1">
           <div class="card-content white-text">
-            <span>REGISTRATION NUMBER: </span> <span>{{ event.RegistrationNumber }}</span>
-            <p>{{event.desc}}</p>
+            <span>REGISTRATION NUMBER: </span> <span>{{ event.RegistrationNumber }}</span><br>
+            <span>REGISTRATION DATE:</span> <span>{{ event.RegisterDate}}</span>
+            <p>Description: {{event.desc}}</p>
             <span class="right">By {{ event.Name }}</span>
             <span>Number of tickets: {{ event.tickets }}</span>
           </div>

@@ -7,7 +7,9 @@ from werkzeug.utils import secure_filename
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import asc, desc
 import os
+import glob
 import random
+import datetime
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from flask_bootstrap import Bootstrap
@@ -46,6 +48,7 @@ class Register(db.Model):
     Type = db.Column(db.String(20))
     tickets = db.Column(db.Integer)
     filename = db.Column(db.String(100))
+    RegisterDate = db.Column(db.Date())
 
 
 class RegisterForm(FlaskForm):
@@ -57,7 +60,7 @@ class RegisterForm(FlaskForm):
     Regtype = SelectField('Choose your option', choices=[
                           ('1', 'Self'), ('2', 'Group'), ('3', 'Corporate'), ('4', 'Others')])
     file = FileField(validators=[FileRequired(),
-                     FileAllowed(['jpeg', 'png'], 'Images only!')])
+                                 FileAllowed(['jpeg', 'png'], 'Images only!')])
     submit = SubmitField()
 
 
@@ -96,7 +99,7 @@ def form():
         regtype = regtypes[int(form.Regtype.data)-1]
         regno = name[:1] + str(random.randint(10000, 1000000000))
         file.save(os.path.join('static/images',
-                  secure_filename(file.filename)))
+                               secure_filename(file.filename)))
 
         context = {
             'name': name,
@@ -126,7 +129,8 @@ def preview():
             desc=dict['desc'],
             Type=dict['type'],
             tickets=dict['ticket'],
-            filename=dict['file']
+            filename=dict['file'],
+            RegisterDate=datetime.datetime.now()
         )
         db.session.add(new_register)
         db.session.commit()
@@ -136,9 +140,22 @@ def preview():
     return render_template('preview.html', context=dict)
 
 
+@app.route('/revert')
+def revert():
+    files = glob.glob('static/images/*')
+    for f in files:
+        os.remove(f)
+    return redirect(url_for('form'))
+
+
+@app.route('/help')
+def help():
+    return render_template('help.html')
+
+
 @app.route('/thanks')
 def thanks():
-   return render_template('thanks.html')
+    return render_template('thanks.html')
 
 
 @app.route('/all')
@@ -160,28 +177,44 @@ def delete(id):
 
 # login
 
-@app.route('/login', methods =['GET', 'POST'])
+
+@app.route('/login', methods=['GET', 'POST'])
 def login():
     form = LoginForm()
     if form.validate_on_submit():
         user = Users.query.filter_by(username=form.username.data).first()
         if user:
-            if check_password_hash(user.password,form.password.data):
+            if check_password_hash(user.password, form.password.data):
                 login_user(user)
-                return redirect(url_for('dashboard')) 
-        return '<h1>Invalid username or password</h1>'
-    
+                return redirect(url_for('dashboard'))
+        return '''<h1>Invalid username or password</h1><script>
+        window.setTimeout(function () {
+
+            window.location.href = "";
+
+        }, 2000);
+    </script>'''
+
     return render_template('login.html', form=form)
 
-@app.route('/signup',methods =['GET', 'POST'])
+
+@app.route('/signup', methods=['GET', 'POST'])
+@login_required
 def signup():
     form = SignupForm()
     if form.validate_on_submit():
         hashed = generate_password_hash(form.password.data, method='sha256')
-        new_user = Users(username=form.username.data, email = form.email.data, password=hashed)
+        new_user = Users(username=form.username.data,
+                         email=form.email.data, password=hashed)
         db.session.add(new_user)
         db.session.commit()
-        return '<h1>New user added </h1>'
+        return '''<h1>New user added </h1> <script>
+        window.setTimeout(function () {
+
+            window.location.href = "/";
+
+        }, 2000);
+    </script>'''
     return render_template('signup.html', form=form)
 
 
@@ -189,7 +222,8 @@ def signup():
 @login_required
 def dashboard():
     events = Register.query.all()[::-1]
-    return render_template('dashboard.html', events= events, name=current_user.username)
+    return render_template('dashboard.html', events=events, name=current_user.username)
+
 
 @app.route('/logout')
 @login_required
@@ -197,6 +231,3 @@ def logout():
     logout_user()
     return redirect(url_for('index'))
 
-
-if __name__ == "__main__":
-    app.run(debug=True)
